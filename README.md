@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Joshua%20J.%20Kanatt&fontSize=60&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=Entrepreneur%20%7C%20Top%20100%20Product%20Builder%20in%20India%20%7C%20VibeCoding%20Expert&descAlignY=55&descSize=16&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Joshua%20J.%20Kanatt&fontSize=60&fontAlignY=32&animation=scaleIn&fontColor=ffffff&desc=Entrepreneur%20%7C%20Top%20100%20Product%20Builder%20in%20India%20%7C%20VibeCoding%20Expert&descAlignY=55&descSize=16&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -315,5 +315,5 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </div>
