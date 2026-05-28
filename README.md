@@ -189,37 +189,37 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/paydash">PayDash AI</a></b></td>
+      <td><b><a href="https://pay-dash-ai.vercel.app">PayDash AI</a></b></td>
       <td><code>AI / HR Tech / SaaS</code></td>
       <td>The most intelligent payroll & workforce OS for US market with AI-native automation and multi-state tax handling across all 50 states.</td>
       <td>99.9% tax accuracy · 96% faster processing · 97% error detection</td>
     </tr>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/superpay">SuperPay</a></b></td>
+      <td><b><a href="https://superpay.joshuakanatt.com/login">SuperPay</a></b></td>
       <td><code>Fintech / B2C / UPI</code></td>
       <td>Next-Gen UPI Super App integrating payments, investing, AI advisory, travel bookings, LOS features, and full BFSI suite.</td>
       <td>18+ module PRDs · NPCI/RBI aligned APIs · KYC/AML compliance</td>
     </tr>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/orionai">Orion.Ai</a></b></td>
+      <td><b><a href="https://orionai.joshuakanatt.com/dashboard">Orion.Ai</a></b></td>
       <td><code>AI / IoT / Intelligence</code></td>
       <td>Advanced operational intelligence platform fusing satellite, drone, and IoT data into predictive insights.</td>
       <td>Multi-sensor fusion · Predictive analytics · Real-time intelligence</td>
     </tr>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/hosefinman">Hose FinMan</a></b></td>
+      <td><b><a href="https://housefinman.vercel.app">Hose FinMan</a></b></td>
       <td><code>Fintech / B2B SaaS</code></td>
       <td>AI-based Housing Finance LMS SaaS with revenue intelligence, partner management, RBAC, lead management, and CRM.</td>
       <td>NHB/RBI compliant · 8+ research sessions · Process automation</td>
     </tr>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/leadload">LeadLoad.ai</a></b></td>
+      <td><b><a href="https://leadload-frontend.vercel.app">LeadLoad.ai</a></b></td>
       <td><code>AI SaaS / Sales CRM</code></td>
       <td>AI-powered CRM automating lead capture, live call coaching, pipeline analytics, and 360° customer visibility.</td>
       <td>Salesforce/HubSpot APIs · AI lead scoring · Pipeline forecasting</td>
     </tr>
     <tr>
-      <td><b><a href="https://jkanatt.github.io/personalwebsite/projects/my-cfo-app">My CFO</a></b></td>
+      <td><b><a href="https://mycfo-mu.vercel.app">My CFO</a></b></td>
       <td><code>Fintech / B2B2C</code></td>
       <td>Financial commander extending enterprise-grade oversight to property investors. Consolidated 4 workflows into a unified dashboard.</td>
       <td>85% onboarding lift · 99.9% billing accuracy · 6.2 hrs/wk saved</td>
