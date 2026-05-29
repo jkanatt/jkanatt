@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/joshuakanatt">LinkedIn</a> · <a href="mailto:joshuakanatt66@gmail.com">Email</a> · <a href="https://jkanatt.github.io/personalwebsite">Portfolio</a> · <a href="https://jkanatt.github.io/personalwebsite/projects">45+ Products</a> · <a href="tel:+918547258015">+91 854 725 8015</a> · Bangalore, India
+  <a href="https://linkedin.com/in/joshuakanatt">LinkedIn</a> · <a href="mailto:joshuakanatt66@gmail.com">Email</a> · <a href="https://jk-lac.vercel.app/#projects">Portfolio</a> · <a href="https://jk-lac.vercel.app/#projects">45+ Products</a> · <a href="tel:+918547258015">+91 854 725 8015</a> · Bangalore, India
 </p>
 
 ---
@@ -176,59 +176,39 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 
 ---
 
-## 🚀 6 Masterpiece Projects
+## 🚀 20+ Live Masterpiece Projects
 
 <table>
   <thead>
     <tr>
       <th>Product</th>
       <th>Domain</th>
-      <th>Description</th>
-      <th>Key Impact</th>
+      <th>Live Vercel Link</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b><a href="https://pay-dash-ai.vercel.app">PayDash AI</a></b></td>
-      <td><code>AI / HR Tech / SaaS</code></td>
-      <td>The most intelligent payroll & workforce OS for US market with AI-native automation and multi-state tax handling across all 50 states.</td>
-      <td>99.9% tax accuracy · 96% faster processing · 97% error detection</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://superpay.joshuakanatt.com/login">SuperPay</a></b></td>
-      <td><code>Fintech / B2C / UPI</code></td>
-      <td>Next-Gen UPI Super App integrating payments, investing, AI advisory, travel bookings, LOS features, and full BFSI suite.</td>
-      <td>18+ module PRDs · NPCI/RBI aligned APIs · KYC/AML compliance</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://orionai.joshuakanatt.com/dashboard">Orion.Ai</a></b></td>
-      <td><code>AI / IoT / Intelligence</code></td>
-      <td>Advanced operational intelligence platform fusing satellite, drone, and IoT data into predictive insights.</td>
-      <td>Multi-sensor fusion · Predictive analytics · Real-time intelligence</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://housefinman.vercel.app">Hose FinMan</a></b></td>
-      <td><code>Fintech / B2B SaaS</code></td>
-      <td>AI-based Housing Finance LMS SaaS with revenue intelligence, partner management, RBAC, lead management, and CRM.</td>
-      <td>NHB/RBI compliant · 8+ research sessions · Process automation</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://leadload-frontend.vercel.app">LeadLoad.ai</a></b></td>
-      <td><code>AI SaaS / Sales CRM</code></td>
-      <td>AI-powered CRM automating lead capture, live call coaching, pipeline analytics, and 360° customer visibility.</td>
-      <td>Salesforce/HubSpot APIs · AI lead scoring · Pipeline forecasting</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://mycfo-mu.vercel.app">My CFO</a></b></td>
-      <td><code>Fintech / B2B2C</code></td>
-      <td>Financial commander extending enterprise-grade oversight to property investors. Consolidated 4 workflows into a unified dashboard.</td>
-      <td>85% onboarding lift · 99.9% billing accuracy · 6.2 hrs/wk saved</td>
-    </tr>
+    <tr><td><b>House FinMan (LMS)</b><br/>Affordable Housing Finance LMS</td><td><code>Fintech / Lending</code></td><td><a href="https://housefinman.vercel.app">housefinman.vercel.app</a></td></tr>
+    <tr><td><b>InCred Finance</b><br/>Smart Lending Platform</td><td><code>Fintech / Lending</code></td><td><a href="https://incred-loanapp.vercel.app">incred-loanapp.vercel.app</a></td></tr>
+    <tr><td><b>Hex Pay</b><br/>Next Generation Payment App</td><td><code>Fintech / UPI</code></td><td><a href="https://hexpay.vercel.app">hexpay.vercel.app</a></td></tr>
+    <tr><td><b>KCredit</b><br/>Powered by Kotak Mahindra Bank</td><td><code>Fintech / Lending</code></td><td><a href="https://kcredit.vercel.app">kcredit.vercel.app</a></td></tr>
+    <tr><td><b>My CFO (Admin Panel)</b><br/>Wealth & Operations Management</td><td><code>Fintech / Wealth</code></td><td><a href="https://mycfo-adminpanel.vercel.app">mycfo-adminpanel.vercel.app</a></td></tr>
+    <tr><td><b>My CFO (Main)</b><br/>Personal Finance Operating System</td><td><code>Fintech / Wealth</code></td><td><a href="https://mycfo-mu.vercel.app">mycfo-mu.vercel.app</a></td></tr>
+    <tr><td><b>GT Hire AI</b><br/>Intelligent Recruitment Platform</td><td><code>AI / HR Tech</code></td><td><a href="https://gthire.vercel.app">gthire.vercel.app</a></td></tr>
+    <tr><td><b>PayDash AI</b><br/>AI-Powered Payroll & Workforce</td><td><code>AI / HR Tech</code></td><td><a href="https://pay-dash-ai.vercel.app">pay-dash-ai.vercel.app</a></td></tr>
+    <tr><td><b>PinPoint.ai</b><br/>AI-Powered Freight Intelligence</td><td><code>AI / Logistics</code></td><td><a href="https://pinpointfrontend.vercel.app">pinpointfrontend.vercel.app</a></td></tr>
+    <tr><td><b>Leadload.ai</b><br/>Client Engagement & Revenue Intel</td><td><code>AI / CRM</code></td><td><a href="https://leadload-frontend.vercel.app">leadload-frontend.vercel.app</a></td></tr>
+    <tr><td><b>FindBreak</b><br/>Advanced Cybersecurity Platform</td><td><code>Cybersecurity</code></td><td><a href="https://findbreakfrontend.vercel.app">findbreakfrontend.vercel.app</a></td></tr>
+    <tr><td><b>SecNode</b><br/>Security Report Scanner</td><td><code>Cybersecurity</code></td><td><a href="https://secnode.vercel.app">secnode.vercel.app</a></td></tr>
+    <tr><td><b>PlayCorp</b><br/>Enterprise Gaming Platform</td><td><code>Gaming / SaaS</code></td><td><a href="https://playcorpfrontend.vercel.app">playcorpfrontend.vercel.app</a></td></tr>
+    <tr><td><b>Cheggout</b><br/>Multi-Booking Command Center</td><td><code>Travel / SaaS</code></td><td><a href="https://booking-command-center.vercel.app">booking-command-center.vercel.app</a></td></tr>
+    <tr><td><b>GoComet</b><br/>Live Shipment Tracking</td><td><code>Logistics</code></td><td><a href="https://gocomet-ruddy.vercel.app">gocomet-ruddy.vercel.app</a></td></tr>
+    <tr><td><b>SurveyPoint</b><br/>Next-Gen Feedback Platform</td><td><code>SaaS / Surveys</code></td><td><a href="https://house-finman-survey.vercel.app">house-finman-survey.vercel.app</a></td></tr>
+    <tr><td><b>Joshua Kanatt</b><br/>Personal Portfolio Platform</td><td><code>Portfolio</code></td><td><a href="https://jk-lac.vercel.app">jk-lac.vercel.app</a></td></tr>
   </tbody>
 </table>
 
 <div align="center">
-  <a href="https://jkanatt.github.io/personalwebsite/projects">
+  <a href="https://jk-lac.vercel.app/#projects">
     <img src="https://img.shields.io/badge/Explore_All_45%2B_Products_→-000000?style=for-the-badge&logoColor=white" />
   </a>
 </div>
