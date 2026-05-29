@@ -183,27 +183,28 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
     <tr>
       <th>Product</th>
       <th>Domain</th>
-      <th>Live Vercel Link</th>
+      <th>Description</th>
+      <th>Product Link</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td><b>House FinMan (LMS)</b><br/>Affordable Housing Finance LMS</td><td><code>Fintech / Lending</code></td><td><a href="https://housefinman.vercel.app">housefinman.vercel.app</a></td></tr>
-    <tr><td><b>InCred Finance</b><br/>Smart Lending Platform</td><td><code>Fintech / Lending</code></td><td><a href="https://incred-loanapp.vercel.app">incred-loanapp.vercel.app</a></td></tr>
-    <tr><td><b>Hex Pay</b><br/>Next Generation Payment App</td><td><code>Fintech / UPI</code></td><td><a href="https://hexpay.vercel.app">hexpay.vercel.app</a></td></tr>
-    <tr><td><b>KCredit</b><br/>Powered by Kotak Mahindra Bank</td><td><code>Fintech / Lending</code></td><td><a href="https://kcredit.vercel.app">kcredit.vercel.app</a></td></tr>
-    <tr><td><b>My CFO (Admin Panel)</b><br/>Wealth & Operations Management</td><td><code>Fintech / Wealth</code></td><td><a href="https://mycfo-adminpanel.vercel.app">mycfo-adminpanel.vercel.app</a></td></tr>
-    <tr><td><b>My CFO (Main)</b><br/>Personal Finance Operating System</td><td><code>Fintech / Wealth</code></td><td><a href="https://mycfo-mu.vercel.app">mycfo-mu.vercel.app</a></td></tr>
-    <tr><td><b>GT Hire AI</b><br/>Intelligent Recruitment Platform</td><td><code>AI / HR Tech</code></td><td><a href="https://gthire.vercel.app">gthire.vercel.app</a></td></tr>
-    <tr><td><b>PayDash AI</b><br/>AI-Powered Payroll & Workforce</td><td><code>AI / HR Tech</code></td><td><a href="https://pay-dash-ai.vercel.app">pay-dash-ai.vercel.app</a></td></tr>
-    <tr><td><b>PinPoint.ai</b><br/>AI-Powered Freight Intelligence</td><td><code>AI / Logistics</code></td><td><a href="https://pinpointfrontend.vercel.app">pinpointfrontend.vercel.app</a></td></tr>
-    <tr><td><b>Leadload.ai</b><br/>Client Engagement & Revenue Intel</td><td><code>AI / CRM</code></td><td><a href="https://leadload-frontend.vercel.app">leadload-frontend.vercel.app</a></td></tr>
-    <tr><td><b>FindBreak</b><br/>Advanced Cybersecurity Platform</td><td><code>Cybersecurity</code></td><td><a href="https://findbreakfrontend.vercel.app">findbreakfrontend.vercel.app</a></td></tr>
-    <tr><td><b>SecNode</b><br/>Security Report Scanner</td><td><code>Cybersecurity</code></td><td><a href="https://secnode.vercel.app">secnode.vercel.app</a></td></tr>
-    <tr><td><b>PlayCorp</b><br/>Enterprise Gaming Platform</td><td><code>Gaming / SaaS</code></td><td><a href="https://playcorpfrontend.vercel.app">playcorpfrontend.vercel.app</a></td></tr>
-    <tr><td><b>Cheggout</b><br/>Multi-Booking Command Center</td><td><code>Travel / SaaS</code></td><td><a href="https://booking-command-center.vercel.app">booking-command-center.vercel.app</a></td></tr>
-    <tr><td><b>GoComet</b><br/>Live Shipment Tracking</td><td><code>Logistics</code></td><td><a href="https://gocomet-ruddy.vercel.app">gocomet-ruddy.vercel.app</a></td></tr>
-    <tr><td><b>SurveyPoint</b><br/>Next-Gen Feedback Platform</td><td><code>SaaS / Surveys</code></td><td><a href="https://house-finman-survey.vercel.app">house-finman-survey.vercel.app</a></td></tr>
-    <tr><td><b>Joshua Kanatt</b><br/>Personal Portfolio Platform</td><td><code>Portfolio</code></td><td><a href="https://jk-lac.vercel.app">jk-lac.vercel.app</a></td></tr>
+    <tr><td><b>House FinMan (LMS)</b></td><td><code>Fintech / Lending</code></td><td>Loan Management System for affordable housing finance</td><td><a href="https://housefinman.vercel.app">housefinman.vercel.app</a></td></tr>
+    <tr><td><b>InCred Finance</b></td><td><code>Fintech / Lending</code></td><td>Smart digital lending platform for InCred Finance</td><td><a href="https://incred-loanapp.vercel.app">incred-loanapp.vercel.app</a></td></tr>
+    <tr><td><b>Hex Pay</b></td><td><code>Fintech / UPI</code></td><td>Next-gen UPI payments, instant loans, bill payments, and comprehensive financial services</td><td><a href="https://hexpay.vercel.app">hexpay.vercel.app</a></td></tr>
+    <tr><td><b>KCredit</b></td><td><code>Fintech / Lending</code></td><td>Instant personal loans, home loans, and business loans powered by Kotak Mahindra Bank</td><td><a href="https://kcredit.vercel.app">kcredit.vercel.app</a></td></tr>
+    <tr><td><b>My CFO (Admin Panel)</b></td><td><code>Fintech / Wealth</code></td><td>AI-powered command center for wealth and operations management</td><td><a href="https://mycfo-adminpanel.vercel.app">mycfo-adminpanel.vercel.app</a></td></tr>
+    <tr><td><b>My CFO (Main)</b></td><td><code>Fintech / Wealth</code></td><td>Aggregate all accounts, simulate financial decisions, and optimize taxes. Built with privacy at its core</td><td><a href="https://mycfo-mu.vercel.app">mycfo-mu.vercel.app</a></td></tr>
+    <tr><td><b>GT Hire AI</b></td><td><code>AI / HR Tech</code></td><td>Advanced AI-powered recruitment platform with resume analysis, candidate scoring, and intelligent hiring recommendations</td><td><a href="https://gthire.vercel.app">gthire.vercel.app</a></td></tr>
+    <tr><td><b>PayDash AI</b></td><td><code>AI / HR Tech</code></td><td>The most intelligent payroll and workforce operating system for the US market. AI-native automation for payroll, compliance, benefits, and HR</td><td><a href="https://pay-dash-ai.vercel.app">pay-dash-ai.vercel.app</a></td></tr>
+    <tr><td><b>PinPoint.ai</b></td><td><code>AI / Logistics</code></td><td>700+ real-time data points. AI-powered carrier scoring, live vessel tracking, rate forecasting, risk intelligence, and competitor benchmarking</td><td><a href="https://pinpointfrontend.vercel.app">pinpointfrontend.vercel.app</a></td></tr>
+    <tr><td><b>Leadload.ai</b></td><td><code>AI / CRM</code></td><td>Pharma-focused lead management & client engagement platform</td><td><a href="https://leadload-frontend.vercel.app">leadload-frontend.vercel.app</a></td></tr>
+    <tr><td><b>FindBreak</b></td><td><code>Cybersecurity</code></td><td>Comprehensive External Attack Surface Management platform with vulnerability scanning, threat intelligence, and security analytics</td><td><a href="https://findbreakfrontend.vercel.app">findbreakfrontend.vercel.app</a></td></tr>
+    <tr><td><b>SecNode</b></td><td><code>Cybersecurity</code></td><td>Security report generator / scanner node for the FindBreak cybersecurity platform</td><td><a href="https://secnode.vercel.app">secnode.vercel.app</a></td></tr>
+    <tr><td><b>PlayCorp</b></td><td><code>Gaming / SaaS</code></td><td>Enterprise gaming & tournament platform to transform recreation budgets into measurable workforce engagement</td><td><a href="https://playcorpfrontend.vercel.app">playcorpfrontend.vercel.app</a></td></tr>
+    <tr><td><b>Cheggout</b></td><td><code>Travel / SaaS</code></td><td>Comprehensive booking admin panel for flights, hotels, dineouts, and hot deals. Manage partners, banks, campaigns, and support tickets</td><td><a href="https://booking-command-center.vercel.app">booking-command-center.vercel.app</a></td></tr>
+    <tr><td><b>GoComet</b></td><td><code>Logistics</code></td><td>Live shipment tracking dashboard with real-time in-transit visibility</td><td><a href="https://gocomet-ruddy.vercel.app">gocomet-ruddy.vercel.app</a></td></tr>
+    <tr><td><b>SurveyPoint</b></td><td><code>SaaS / Surveys</code></td><td>Next-generation survey and feedback collection platform</td><td><a href="https://house-finman-survey.vercel.app">house-finman-survey.vercel.app</a></td></tr>
+    <tr><td><b>Joshua Kanatt</b></td><td><code>Portfolio</code></td><td>Personal portfolio — 32+ products shipped, 300+ team members led, $1M+ valuation offers</td><td><a href="https://jk-lac.vercel.app">jk-lac.vercel.app</a></td></tr>
   </tbody>
 </table>
 
