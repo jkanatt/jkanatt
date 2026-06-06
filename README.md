@@ -343,8 +343,41 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 
 ---
 
+## 💡 Random Dev Quote
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jkanatt&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+---
+
+## 🔗 Connect & Follow
+
+<div align="center">
+  <a href="https://linkedin.com/in/joshuakanatt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joshuakanatt66@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jk-lac.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jkanatt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/jkanatt?style=for-the-badge&logo=github&labelColor=000000&color=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jkanatt?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&labelColor=000000&color=1a1a2e" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=jkanatt&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://skyline.github.com/jkanatt/2025"><img src="https://img.shields.io/badge/🏙️_GitHub_Skyline_2025-View_3D_Contribution_City-000?style=for-the-badge&labelColor=1a1a2e" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=jkanatt&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
 </div>
 
 <br/>
