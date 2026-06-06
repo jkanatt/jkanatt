@@ -360,13 +360,3 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </div>
-Achievement unlock commit
-
-<!-- update 3 -->
-<!-- update 4 -->
-<!-- update 5 -->
-<!-- update 6 -->
-<!-- update 7 -->
-<!-- update 8 -->
-<!-- update 9 -->
-<!-- update 10 -->
