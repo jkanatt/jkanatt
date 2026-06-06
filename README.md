@@ -155,23 +155,83 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 
 ---
 
-## 📈 Coding Analytics
+## 🏅 Achievements & Awards
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkanatt&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkanatt&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=666666&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🤠_YOLO-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌟_Starstruck-In_Progress-000?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-In_Progress-000?style=for-the-badge&labelColor=1a1a2e" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Top Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jkanatt&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=58a6ff&text_color=cccccc&ring_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=jkanatt&hide_border=true&background=000000&ring=58a6ff&fire=ff6e40&currStreakLabel=ffffff&sideLabels=cccccc&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=333333" height="200" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkanatt&layout=donut-vertical&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=10&count_private=true" height="320" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkanatt&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=12&count_private=true&card_width=400" height="320" alt="Languages Compact" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkanatt&hide_border=true&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkanatt&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&area_color=1a1a2e" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jkanatt/jkanatt/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jkanatt/jkanatt/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jkanatt/jkanatt/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 📋 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkanatt&theme=github_dark" width="100%" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkanatt&theme=github_dark" height="180" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkanatt&theme=github_dark" height="180" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkanatt&theme=github_dark" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkanatt&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time" />
 </div>
 
 ---

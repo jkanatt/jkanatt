@@ -1,0 +1,28 @@
+name: Unlock Achievements
+
+on:
+  workflow_dispatch:
+
+jobs:
+  quickdraw:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Quickdraw - Open and close issue in under 5 min
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '⚡ Quickdraw Achievement',
+              body: 'Auto-created to unlock Quickdraw achievement. Closing immediately.'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.data.number,
+              state: 'closed'
+            });
+            console.log(`Opened and closed issue #${issue.data.number} for Quickdraw!`);
