@@ -155,27 +155,18 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 
 ---
 
-## 🏅 Achievements & Awards
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🤠_YOLO-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/👥_Pair_Extraordinaire-Earned-000?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🌟_Starstruck-In_Progress-000?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-In_Progress-000?style=for-the-badge&labelColor=1a1a2e" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Top Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=juicyfresh&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Top Rank Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jkanatt&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" width="100%" alt="Category Trophies" />
 </div>
 
 ---
@@ -210,28 +201,6 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jkanatt/jkanatt/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/jkanatt/jkanatt/output/github-snake-dark.svg" width="100%" />
   </picture>
-</div>
-
----
-
-## 📋 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkanatt&theme=github_dark" width="100%" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkanatt&theme=github_dark" height="180" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkanatt&theme=github_dark" height="180" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jkanatt&theme=github_dark" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jkanatt&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time" />
 </div>
 
 ---
