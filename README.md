@@ -33,6 +33,13 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/💼_Currently-Building_Next_Big_Thing-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📍_Location-Bangalore,_India-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Count-9999+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀_Products_Shipped-45+-000?style=for-the-badge&labelColor=0d1117" />
+</div>
+
 ---
 
 ## ⚡ The Executive Summary
@@ -90,6 +97,20 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 </table>
 
 ---
+
+## 💠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,firebase,supabase,vercel,figma&theme=dark&perline=12" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,gcp,git,github,vscode,postman,linux,bash&theme=dark&perline=12" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flutter,swift,kotlin,tailwind,graphql,notion,discord,linkedin,twitter&theme=dark&perline=12" />
+</div>
 
 ## 🛠️ Tools & Tech Stack
 
@@ -154,6 +175,27 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 </table>
 
 ---
+
+## 🎖️ Certifications & Recognitions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stanford_SSP-Entrepreneurship-8C1515?style=for-the-badge&logo=stanford&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deakin_University-Global_MBA-00205C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIIT_Bangalore-PGDM_Data_Science-FF6F00?style=for-the-badge&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Startups_Founder_Hub-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Launchpad_Selectee-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/NASSCOM-10K_Startups-FF4500?style=for-the-badge&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Razorpay-Rize_Cohort-2D63E2?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/ATAL-Innovation_Mission-138808?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wadhwani-Foundation-6C3483?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/YCombinator-VibeCon_Top_100-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" />
+</div>
 
 ## 🏆 GitHub Trophies
 
