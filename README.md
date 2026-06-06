@@ -247,6 +247,62 @@ I held **end-to-end ownership for 90%+ of initiatives**, while also working as a
 
 ---
 
+## 📌 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/jkanatt/mednex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jkanatt&repo=mednex&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=cccccc" /></a>
+  <a href="https://github.com/jkanatt/jkanatt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jkanatt&repo=jkanatt&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=cccccc" /></a>
+</div>
+
+---
+
+## 🌍 Open Source Impact
+
+<div align="center">
+
+| Metric | Count |
+|:---|:---:|
+| 🔀 Total Pull Requests Merged | **35+** |
+| 📦 Public Repositories | **6+** |
+| 🐛 Issues Resolved | **20+** |
+| ⭐ Stars Earned | **Growing** |
+| 👥 Co-authored Contributions | **10+** |
+| 📝 Total Commits (All Time) | **10,000+** |
+| 🔥 Current Streak | **Active** |
+| 🌐 Countries Reached | **5+** |
+
+</div>
+
+---
+
+## ⚡ Fun Facts & Stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⌨️_Lines_of_Code-500K+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠_Problems_Solved-1000+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🎮_Games_Played-∞-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📚_Books_Read-50+-000?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Models_Trained-100+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🏢_Startups_Consulted-10+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/👨‍💻_Team_Size_Led-200+-000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💰_Revenue_Generated-₹10Cr+-000?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+---
+
+## 😂 Dev Humor
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%2358a6ff&aColor=%23cccccc&bgColor=%23000000&borderColor=%23333333" alt="Jokes Card" />
+</div>
+
+---
+
 ## 🚀 20+ Live Masterpiece Projects
 
 <table>
